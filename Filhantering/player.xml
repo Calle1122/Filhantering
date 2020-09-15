@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <name>Carlos</name>
-  <hp>100</hp>
-  <atk>50</atk>
-  <def>35</def>
+  <name>Calle</name>
+  <hp>13</hp>
+  <atk>14</atk>
+  <def>15</def>
 </Player>
